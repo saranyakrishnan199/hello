@@ -1,0 +1,219 @@
+Received: from KL1PR03MB7600.apcprd03.prod.outlook.com (2603:1096:820:99::12)
+ by OSNPR03MB9752.apcprd03.prod.outlook.com with HTTPS; Tue, 3 Nov 2026
+ 06:52:27 +0000
+Received: from KL1PR03MB5665.apcprd03.prod.outlook.com (2603:1096:820:76::14)
+ by KL1PR03MB7600.apcprd03.prod.outlook.com (2603:1096:820:99::12) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.569.12; Tue, 3 Nov
+ 2026 06:52:25 +0000
+Received: from KL1PR03MB5665.apcprd03.prod.outlook.com
+ ([fe80::5ddb:dda:cd5e:8873]) by KL1PR03MB5665.apcprd03.prod.outlook.com
+ ([fe80::5ddb:dda:cd5e:8873%4]) with mapi id 15.21.0569.011; Tue, 3 Nov 2026
+ 06:52:25 +0000
+From: "Chen, Lucas Yu" <LucasYu.Chen@sc.com>
+To: "Ranjan3, Rahul" <Rahul.Ranjan3@sc.com>, "S5, Raja" <Raja.S5@sc.com>,
+	"Tan, Harry" <Harry.Tan@sc.com>
+CC: "Samant, Bharat" <Bharat.Samant@sc.com>, "Jia, Tracy" <Tracy.Jia@sc.com>,
+	"Huang, Eason Zhenshi" <EasonZhenshi.Huang@sc.com>, "B T, Shobana"
+	<Shobana.BT@sc.com>, "Chen, Lucas Yu" <LucasYu.Chen@sc.com>, "Avinash
+ Badlani, Sonakshi" <Sonakshi.AvinashBadlani@sc.com>, "Kumar, Mahesh K"
+	<Mahesh-K.Kumar@sc.com>, "Wang,David Sihai" <Sihai.Wang@sc.com>, "Song,
+ Hunter Xianda" <HunterXianda.Song@sc.com>, "support, scidp"
+	<scidp.support@sc.com>
+Subject:
+	=?gb2312?B?U0MtSURQIE9uYm9hcmRpbmcgqEMgUmVsZWFzZSBSZWFkaW5lc3MgUmV2aWV3?=
+ =?gb2312?B?IGFuZCBOZXh0IFN0ZXBzIGZvciBOb3ZlbWJlciBPbmVUQiBUZXh0MlNRTCBQ?=
+ =?gb2312?Q?roduction_Release__?=
+Thread-Topic:
+	=?gb2312?B?U0MtSURQIE9uYm9hcmRpbmcgqEMgUmVsZWFzZSBSZWFkaW5lc3MgUmV2aWV3?=
+ =?gb2312?B?IGFuZCBOZXh0IFN0ZXBzIGZvciBOb3ZlbWJlciBPbmVUQiBUZXh0MlNRTCBQ?=
+ =?gb2312?Q?roduction_Release__?=
+Thread-Index: AQHda12m18tlbzcedEmnY6m7XRt09A==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Tue, 3 Nov 2026 06:52:24 +0000
+Message-ID:
+	<KL1PR03MB5665D8DDDA4EA2A215A24CD4EF692@KL1PR03MB5665.apcprd03.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: KL1PR03MB5665.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-SupervisoryReview-OcrResultLocation:
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	1a1cedc5-ac62-4de8-52c8-08df3977048d
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+	MSIP_Label_840e60c6-cef6-4cc0-a98d-364c7249d74b_Enabled=True;MSIP_Label_840e60c6-cef6-4cc0-a98d-364c7249d74b_SiteId=b44900f1-2def-4c3b-9ec6-9020d604e19e;MSIP_Label_840e60c6-cef6-4cc0-a98d-364c7249d74b_SetDate=2026-11-03T06:52:22.2181132Z;MSIP_Label_840e60c6-cef6-4cc0-a98d-364c7249d74b_Name=840e60c6-cef6-4cc0-a98d-364c7249d74b;MSIP_Label_840e60c6-cef6-4cc0-a98d-364c7249d74b_ContentBits=3;MSIP_Label_840e60c6-cef6-4cc0-a98d-364c7249d74b_Method=Privileged
+x-ms-publictraffictype: Email
+x-ms-reactions: allow
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930201)(20251009284)(140003);
+X-Microsoft-Antispam-Message-Info:
+	TUOXq1UGdbMN6yaDDEl3a+Vqx4t4VqNojFrJY1nsr3DBA3N4y4HC01B6h/WMggOomy8PMOvOUmxSKhd8+pme9w5JwYUbCU5u+f+z0stDlUyojjoqyN5n9iRccEZW2sM3jnqek1Ly02S32Ec4+xjhnccsnj22GIwRFYbZYqnsH8/OLXJmDlqv74JIV+xW3Vf0bC9MRHL3a+zV2mSxZZBs3gTYrZuxEmtdiiN/TYANQ4bc2s37vGyDIER5AFvn17RpN+mmdeI1gyBSRt7+Is9bbPUplIQgrlT4fn7zg3LomKaG3a7E1MmABSDYM1GdaNoIJix+IUbv1LuWP2M3EIEkZFBKz3w+K3POvRbZuSGUCa0fBcbgdvIkUmHLdvn4woUFAnlbFeApjI7upX1QVqRTYd80L14ox+wS1bprY1Y8mfx5fHnq7u0l3j/BWOWcDAtfOgjG9Tvs8rJN9Q9jFBRAiQSH+4pROezzjEm574ljvtxz7iKu28XdHe9io6hSUUfkOcPo/BhdJ6IX4Qq1JCRsqxIUfEaIdFI8uK/Ef8Oeg/GYC3Rs3oGW6Qibvyjf5B12ml7FMYOq50TKVA0I1zJ8nMRwmNJ3a46Ac43wrfhgWRv8VDPjp1lkAiVLMpSvHHIM/dKObjTL2WzN67wM/zE5bCJDEzT5vInm2k3Uvh1RNhM9ov0Yc91IF2sfTiU4+IgLW5szzSTCzRXcNC6GOJx3ePcDMBJazdndR+rgWm7pvlC9yWBpjaMVoCTANTlR9r97hfwbRd1h6ydSATpcR7zGbwj2VukOdT/RixGLNBeIa4FBQYl+x7SdNrdkp16Kl531
+Content-Type: multipart/alternative;
+	boundary="_000_KL1PR03MB5665D8DDDA4EA2A215A24CD4EF692KL1PR03MB5665apcp_"
+MIME-Version: 1.0
+
+--_000_KL1PR03MB5665D8DDDA4EA2A215A24CD4EF692KL1PR03MB5665apcp_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: base64
+
+SU5URVJOQUwNCg0KDQoNCkhpIEBSYW5qYW4zLCBSYWh1bDxtYWlsdG86UmFodWwuUmFuamFuM0Bz
+Yy5jb20+IEBTNSwgUmFqYTxtYWlsdG86UmFqYS5TNUBzYy5jb20+DQoNCldlIHdvdWxkIGxpa2Ug
+dG8gYXJyYW5nZSBhIGNhbGwgd2l0aCB5b3UgdG8gcmV2aWV3IG91ciBTQy1JRFAgb25ib2FyZGlu
+ZyByZWFkaW5lc3MgYW5kIGFncmVlIG9uIHRoZSBuZXh0IHN0ZXBzLCBpbiBsaW5lIHdpdGggU2Vj
+dGlvbiA0LjMgqEMgUmV2aWV3IFJlbGVhc2UgUHJlcGFyZWRuZXNzIHdpdGggSURQIFRlYW0gb2Yg
+dGhlIG9uYm9hcmRpbmcgcHJvY2Vzcw0KaHR0cHM6Ly9zY3dpa2kuZ2xvYmFsLnN0YW5kYXJkY2hh
+cnRlcmVkLmNvbS9iaW4vdmlldy9HbG9iYWwlMjBTcGFjZXMvQVBQUExBVC9TQyUyMElkZW50aXR5
+JTIwUGxhdGZvcm0lMkMlMjBha2ElMjBTQy1JRFAvT25ib2FyZGluZyUyMHRvJTIwU0MtSURQL1By
+b2Nlc3MlMjBEZXRhaWwlMjBhbmQlMjBUYXNrcyUyMC0lMjBBUEklMjBGYWN0b3J5Lz9zcmlkPUk0
+ME01NUVIDQoNCk91ciBjdXJyZW50IHN0YXR1cyBpcyBhcyBmb2xsb3dzOg0KLSBUaGUgcHVibGlj
+IGtleXMgYXJlIHJlYWR5LCBhbmQgdGhlIGNlcnRpZmljYXRlcyBmb3IgU0lULCBVQVQgYW5kIFBy
+b2R1Y3Rpb24gaGF2ZSBiZWVuIGNvbW1pdHRlZCB0byB0aGUgZmVhdHVyZS9pbml0IGJyYW5jaCBv
+ZiBvdXIgY2xpZW50LW9uYm9hcmRpbmcgcmVwb3NpdG9yeSAgaHR0cHM6Ly9kZXYuYXp1cmUuY29t
+L3NjLWFkby9UVE9RUFIvX2dpdC81NTMyNS0yNDgtY2xpZW50LW9uYm9hcmRpbmcNCi0gU2VjdGlv
+biA0LjIgqEMgUHJlcGFyZSBzZXJ2aWNlLWFjY2Vzcy1wb2xpY3kgaXMgbm90IGFwcGxpY2FibGUg
+dG8gb3VyIHVzZSBjYXNlLg0KDQpEdXJpbmcgdGhlIGNhbGwsIHdlIHdvdWxkIGxpa2UgdG8gY292
+ZXI6DQoxLiBDbGllbnQgb25ib2FyZGluZyBwaXBlbGluZSByZXZpZXcuDQoyLiBSZWxlYXNlIGRl
+dGFpbHMgdG8gYmUgdXBkYXRlZCBvbiB0aGUgU0MgSURQIKhDIEFwcC9QbHVnaW4gVGVhbXMgUmVs
+ZWFzZSCoQyAyMDI2IHBhZ2UuDQozLiBBbnkgb3V0c3RhbmRpbmcgcHJlcmVxdWlzaXRlcywgcmVx
+dWlyZWQgYXBwcm92YWxzIGFuZCBuZXh0IHN0ZXBzIHRvIGNvbXBsZXRlIG9uYm9hcmRpbmcuDQoN
+CldlIGFyZSB0YXJnZXRpbmcgYSBOb3ZlbWJlciAyMDI2IHJlbGVhc2UsIHNvIHdlIHdvdWxkIGFw
+cHJlY2lhdGUgeW91ciBzdXBwb3J0IGluIGNvbXBsZXRpbmcgdGhlIFNDLUlEUCBvbmJvYXJkaW5n
+IGFjdGl2aXRpZXMgYXMgc29vbiBhcyBwb3NzaWJsZSB0byBrZWVwIHRoZSByZWxlYXNlIG9uIHRy
+YWNrLg0KDQpDb3VsZCB5b3UgcGxlYXNlIHNoYXJlIHlvdXIgZWFybGllc3QgYXZhaWxhYmlsaXR5
+IGZvciBhIGNhbGw/IFBsZWFzZSBhbHNvIGxldCB1cyBrbm93IGlmIHRoZXJlIGlzIGFueXRoaW5n
+IGVsc2Ugd2Ugc2hvdWxkIHByZXBhcmUgYWhlYWQgb2YgdGhlIHJldmlldy4NCg0KVGhhbmtzIGZv
+ciB5b3VyIHN1cHBvcnQuDQoNCkNoZW4sIEx1Y2FzIFl1ICizwtP0KQ0KqaSppKmkqaSppKmkqaSp
+pKmkqaSppKmkqaSppKmkqaSppKmkqaSppKmkqaSppKmkqaQNClBTSUQ6ICAgIDE2MDQyNjMNCk1v
+YmlsZTogICs4NiAxODAgMjAwNyA4MTc4DQpBZGRyZXNzOiBHQlMgQ04gU0NDLCAyL0YNCg==
+
+--_000_KL1PR03MB5665D8DDDA4EA2A215A24CD4EF692KL1PR03MB5665apcp_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+</head>
+<body>
+<p style=3D"font-family:Arial;font-size:9pt;color:#0078D7;margin:5pt;font-s=
+tyle:normal;font-weight:normal;text-decoration:none;" align=3D"Left">
+INTERNAL<br>
+</p>
+<br>
+<div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+Hi <a href=3D"mailto:Rahul.Ranjan3@sc.com" id=3D"OWAAM104976" rel=3D"norefe=
+rrer noopener" data-outlook-id=3D"50bfe0e1-f6c4-4c1e-8d6b-d5f1ca69e138">
+@Ranjan3, Rahul</a>&nbsp;<a href=3D"mailto:Raja.S5@sc.com" id=3D"OWAAM80338=
+8" rel=3D"noreferrer noopener" data-outlook-id=3D"3957fe12-4caf-4a99-8d66-1=
+040a4cdfccc">@S5, Raja</a></div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+We would like to arrange a call with you to review our SC-IDP onboarding re=
+adiness and agree on the next steps, in line with Section 4.3 =A8C Review R=
+elease Preparedness with IDP Team of the onboarding process</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+<a href=3D"https://scwiki.global.standardchartered.com/bin/view/Global%20Sp=
+aces/APPPLAT/SC%20Identity%20Platform%2C%20aka%20SC-IDP/Onboarding%20to%20S=
+C-IDP/Process%20Detail%20and%20Tasks%20-%20API%20Factory/?srid=3DI40M55EH" =
+data-outlook-id=3D"7e7055b6-c9d9-45c3-88f8-43f9cf12324d">https://scwiki.glo=
+bal.standardchartered.com/bin/view/Global%20Spaces/APPPLAT/SC%20Identity%20=
+Platform%2C%20aka%20SC-IDP/Onboarding%20to%20SC-IDP/Process%20Detail%20and%=
+20Tasks%20-%20API%20Factory/?srid=3DI40M55EH</a></div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+Our current status&nbsp;is as follows:</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+- The <span style=3D"color: rgb(12, 136, 42);"><b>public keys are ready,</b=
+></span>&nbsp;and the
+<span style=3D"color: rgb(12, 136, 42);">certificates for SIT, UAT and Prod=
+uction have been committed to the
+<b>feature/init </b></span>branch of our client-onboarding repository &nbsp=
+;<a href=3D"https://dev.azure.com/sc-ado/TTOQPR/_git/55325-248-client-onboa=
+rding" data-outlook-id=3D"e29aa5ee-793f-4bcc-8448-6b538f938ed1">https://dev=
+.azure.com/sc-ado/TTOQPR/_git/55325-248-client-onboarding</a>&nbsp;</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+- Section 4.2 =A8C Prepare service-access-policy is not applicable to our u=
+se case.</div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+During the call, we would like to cover:</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+1. Client onboarding pipeline review.</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+2. Release details to be updated on the SC IDP =A8C App/Plugin Teams Releas=
+e =A8C 2026 page.</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+3. Any outstanding prerequisites, required approvals and next steps to comp=
+lete onboarding.</div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+We are targeting a November 2026 release, so we would appreciate your suppo=
+rt in completing the SC-IDP onboarding activities as soon as possible to ke=
+ep the release on track.</div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+Could you please share your earliest availability for a call? Please also l=
+et us know if there is anything else we should prepare ahead of the review.=
+</div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: =
+12pt; color: rgb(0, 0, 0);">
+Thanks for your support.</div>
+<div style=3D"direction: ltr; font-family: Aptos, Arial, Helvetica, sans-se=
+rif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div id=3D"ms-outlook-mobile-signature">
+<div class=3D"MsoNormal" style=3D"margin: 0in 0in 0.0001pt; font-family: ap=
+tos, sans-serif; font-size: 11pt; color: black;">
+Chen, Lucas Yu (=B3=C2=D3=F4)</div>
+<div style=3D"font-family: aptos, sans-serif; font-size: 11pt; color: black=
+;">=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=
+=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=A4=A9=
+=A4</div>
+<div style=3D"font-family: aptos, sans-serif; font-size: 11pt; color: black=
+;">PSID: &nbsp; &nbsp;1604263</div>
+<div style=3D"font-family: aptos, sans-serif; font-size: 11pt; color: black=
+;">Mobile: &nbsp;+86 180 2007 8178</div>
+<div style=3D"font-family: aptos, sans-serif; font-size: 11pt; color: black=
+;">Address: GBS CN SCC, 2/F</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_KL1PR03MB5665D8DDDA4EA2A215A24CD4EF692KL1PR03MB5665apcp_--
